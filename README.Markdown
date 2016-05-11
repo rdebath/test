@@ -11,3 +11,5 @@ Rawgit ...
 <td color="red">HELLO</td>
 </tr>
 </table>
+
+![Alt Text](https://rawgit.com/rdebath/test/master/testcolour.svg)
