@@ -1,1 +1,1 @@
-<div color="red">This is README.markdown</div>
+<p color="red">This is README.markdown</p>
