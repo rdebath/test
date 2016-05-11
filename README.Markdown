@@ -6,3 +6,8 @@ Github's raw ...
 Rawgit ...
 ![Alt Text](https://rawgit.com/rdebath/test/master/Warning.svg)
 
+<table>
+<tr>
+<td color="red">HELLO</td>
+</tr>
+</table>
