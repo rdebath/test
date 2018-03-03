@@ -1,6 +1,6 @@
-<code color="red">This is README.Markdown in red colour code</code>
+<code color="red">This is .github/README.Markdown in red colour code</code>
 
-<code style="color:red;">This is README.Markdown in red style code</code>
+<code style="color:red;">This is .github/README.Markdown in red style code</code>
 
 <table>
 <tr>
