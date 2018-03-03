@@ -1,7 +1,7 @@
 test
 ====
 
-For testing git markdown
+For testing git markdown (README.md)
 
 In your case you can <span style="color:red;">make something red</span>
 by adding a span.
