@@ -1,0 +1,21 @@
+<code color="red">This is .github/README.Markdown in red colour code</code>
+
+<code style="color:red;">This is .github/README.Markdown in red style code</code>
+
+<table>
+<tr>
+<td style="color:red;">HELLO in red style</td>
+</tr>
+</table>
+
+Github's raw SVG:
+![Alt Text](https://github.com/rdebath/test/raw/master/Warning.svg)
+
+Rawgit SVG:
+![Alt Text](https://rawgit.com/rdebath/test/master/Warning.svg)
+
+Rawgit test colour SVG
+![Alt Text](https://rawgit.com/rdebath/test/master/testcolour.svg)
+
+Data image URL:
+![Alt Text](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNjgiIGhlaWdodD0iMjAiPjxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDI9IjAiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiNiYmIiIHN0b3Atb3BhY2l0eT0iLjEiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3Atb3BhY2l0eT0iLjEiLz48L2xpbmVhckdyYWRpZW50PjxtYXNrIGlkPSJhIj48cmVjdCB3aWR0aD0iMTY4IiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI2ZmZiIvPjwvbWFzaz48ZyBtYXNrPSJ1cmwoI2EpIj48cGF0aCBmaWxsPSIjNTU1IiBkPSJNMCAwaDU1djIwSDB6Ii8+PHBhdGggZmlsbD0iI2UwNWQ0NCIgZD0iTTU1IDBoMTEzdjIwSDU1eiIvPjxwYXRoIGZpbGw9InVybCgjYikiIGQ9Ik0wIDBoMTY4djIwSDB6Ii8+PC9nPjxnIGZpbGw9IiNmZmYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJEZWphVnUgU2FucyxWZXJkYW5hLEdlbmV2YSxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIj48dGV4dCB4PSIyNy41IiB5PSIxNSIgZmlsbD0iIzAxMDEwMSIgZmlsbC1vcGFjaXR5PSIuMyI+V2FybmluZzwvdGV4dD48dGV4dCB4PSIyNy41IiB5PSIxNCI+V2FybmluZzwvdGV4dD48dGV4dCB4PSIxMTAuNSIgeT0iMTUiIGZpbGw9IiMwMTAxMDEiIGZpbGwtb3BhY2l0eT0iLjMiPkFMUEhBIFNPRlRXQVJFPC90ZXh0Pjx0ZXh0IHg9IjExMC41IiB5PSIxNCI+QUxQSEEgU09GVFdBUkU8L3RleHQ+PC9nPjwvc3ZnPgo=)
